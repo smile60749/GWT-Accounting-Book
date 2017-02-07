@@ -1,0 +1,2 @@
+serviceClass: com.guestbook.client.PostService
+path: EFC40CA1254F9F22DF082D8C3A1AF96A.gwt.rpc

@@ -1,0 +1,4 @@
+# Module guestbook
+# RPC service class, partial path of RPC policy file
+com.guestbook.client.GreetingService, 1EC94A51F31C54A6F37331934811CB01.gwt.rpc
+com.guestbook.client.PostService, EFC40CA1254F9F22DF082D8C3A1AF96A.gwt.rpc
